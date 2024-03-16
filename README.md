@@ -1,4 +1,4 @@
-Nilesh-Kumar-Prasad-/README.md
+Nilesh-Kumar-Prasad- / README.md
 ![](https://github.com/Valac47/Nilesh-Kumar-Prasad-/blob/main/Modern%20Minimalist%20Simple%20Technology%20Banner_20240315_174333_0000.png)
 <h1 align="center">Hi 👋, I'm Nilesh Kumar Prasad</h1>
 <h3 align="center">MBA Specialization IT and banking</h3>
