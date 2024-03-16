@@ -1,6 +1,9 @@
+![](https://github.com/Valac47/Nilesh-Kumar-Prasad-/blob/main/Modern%20Minimalist%20Simple%20Technology%20Banner_20240315_174333_0000.png)
 <h1 align="center">Hi 👋, I'm Nilesh Kumar Prasad</h1>
 <h3 align="center">MBA Specialization IT and banking</h3>
 
+<img = "rigth" alt="coding" width="400" src="![image](https://github.com/Valac47/Nilesh-Kumar-Prasad-/assets/148631804/5c3c49bb-2ef3-447f-8c18-d1206b58b9a6)
+">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=valac47&label=Profile%20views&color=0e75b6&style=flat" alt="valac47" /> </p>
 
 - 🌱 I’m currently learning **MBA SPECIALIZATION IT AND BANKING**
